@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-09-23T12:19:39+03:00</generation-date>
+  <generation-date>2026-09-23T14:47:53+03:00</generation-date>
   <offer internal-id="Q1-B4K-S2-F2-N2">
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <new-flat>да</new-flat>
-    <creation-date>2026-09-23T12:19:39+03:00</creation-date>
+    <creation-date>2026-09-23T14:47:53+03:00</creation-date>
     <location>
       <country>Россия</country>
       <region>Республика Дагестан</region>
       <locality-name>Дербент</locality-name>
-      <address>Республика Дагестан, г. Дербент, улица Аваин-булаг</address>
+      <address>Россия, Республика Дагестан, Дербент, Физули, 55</address>
       <apartment>2</apartment>
     </location>
     <sales-agent>
@@ -33,11 +32,7 @@
     <floors-total>4</floors-total>
     <building-name>ЖК Аваин</building-name>
     <building-section>2</building-section>
-    <building-state>unfinished</building-state>
-    <ready-quarter>2</ready-quarter>
-    <built-year>2027</built-year>
-    <deal-status>первичная продажа</deal-status>
-    <domclick-building-id>121794</domclick-building-id>
+    <deal-status>прямая продажа</deal-status>
     <renovation>без отделки</renovation>
     <description>Вид из окон: трасса. Площадь по проекту 60.78 м², по факту 65.78 м². Блок 4К, секция 2, этаж 2, квартира 2.</description>
   </offer>
@@ -45,13 +40,12 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <new-flat>да</new-flat>
-    <creation-date>2026-09-23T12:19:39+03:00</creation-date>
+    <creation-date>2026-09-23T14:47:53+03:00</creation-date>
     <location>
       <country>Россия</country>
       <region>Республика Дагестан</region>
       <locality-name>Дербент</locality-name>
-      <address>Республика Дагестан, г. Дербент, улица Аваин-булаг</address>
+      <address>Россия, Республика Дагестан, Дербент, Физули, 55</address>
       <apartment>2</apartment>
     </location>
     <sales-agent>
@@ -73,11 +67,7 @@
     <floors-total>4</floors-total>
     <building-name>ЖК Аваин</building-name>
     <building-section>3</building-section>
-    <building-state>unfinished</building-state>
-    <ready-quarter>2</ready-quarter>
-    <built-year>2027</built-year>
-    <deal-status>первичная продажа</deal-status>
-    <domclick-building-id>121794</domclick-building-id>
+    <deal-status>прямая продажа</deal-status>
     <renovation>без отделки</renovation>
     <description>Вид из окон: двор-трасса. Площадь по проекту 68.73 м², по факту 74.05 м². Блок 3К, секция 3, этаж 2, квартира 2.</description>
   </offer>
@@ -85,13 +75,12 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <new-flat>да</new-flat>
-    <creation-date>2026-09-23T12:19:39+03:00</creation-date>
+    <creation-date>2026-09-23T14:47:53+03:00</creation-date>
     <location>
       <country>Россия</country>
       <region>Республика Дагестан</region>
       <locality-name>Дербент</locality-name>
-      <address>Республика Дагестан, г. Дербент, улица Аваин-булаг</address>
+      <address>Россия, Республика Дагестан, Дербент, Физули, 55</address>
       <apartment>6</apartment>
     </location>
     <sales-agent>
@@ -113,11 +102,7 @@
     <floors-total>4</floors-total>
     <building-name>ЖК Аваин</building-name>
     <building-section>4</building-section>
-    <building-state>unfinished</building-state>
-    <ready-quarter>2</ready-quarter>
-    <built-year>2027</built-year>
-    <deal-status>первичная продажа</deal-status>
-    <domclick-building-id>121794</domclick-building-id>
+    <deal-status>прямая продажа</deal-status>
     <renovation>без отделки</renovation>
     <description>Вид из окон: трасса. Площадь по проекту 60.78 м², по факту 65.78 м². Блок 4К, секция 4, этаж 3, квартира 6.</description>
   </offer>
@@ -125,13 +110,12 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <new-flat>да</new-flat>
-    <creation-date>2026-09-23T12:19:39+03:00</creation-date>
+    <creation-date>2026-09-23T14:47:53+03:00</creation-date>
     <location>
       <country>Россия</country>
       <region>Республика Дагестан</region>
       <locality-name>Дербент</locality-name>
-      <address>Республика Дагестан, г. Дербент, улица Аваин-булаг</address>
+      <address>Россия, Республика Дагестан, Дербент, Физули, 55</address>
       <apartment>2</apartment>
     </location>
     <sales-agent>
@@ -153,11 +137,7 @@
     <floors-total>4</floors-total>
     <building-name>ЖК Аваин</building-name>
     <building-section>9</building-section>
-    <building-state>unfinished</building-state>
-    <ready-quarter>2</ready-quarter>
-    <built-year>2027</built-year>
-    <deal-status>первичная продажа</deal-status>
-    <domclick-building-id>121794</domclick-building-id>
+    <deal-status>прямая продажа</deal-status>
     <renovation>без отделки</renovation>
     <description>Вид из окон: школа. Площадь по проекту 70.39 м², по факту 76.02 м². Блок 2К3, секция 9, этаж 2, квартира 2.</description>
   </offer>
@@ -165,13 +145,12 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <new-flat>да</new-flat>
-    <creation-date>2026-09-23T12:19:39+03:00</creation-date>
+    <creation-date>2026-09-23T14:47:53+03:00</creation-date>
     <location>
       <country>Россия</country>
       <region>Республика Дагестан</region>
       <locality-name>Дербент</locality-name>
-      <address>Республика Дагестан, г. Дербент, улица Аваин-булаг</address>
+      <address>Россия, Республика Дагестан, Дербент, Физули, 55</address>
       <apartment>11</apartment>
     </location>
     <sales-agent>
@@ -193,11 +172,7 @@
     <floors-total>4</floors-total>
     <building-name>ЖК Аваин</building-name>
     <building-section>16</building-section>
-    <building-state>unfinished</building-state>
-    <ready-quarter>2</ready-quarter>
-    <built-year>2027</built-year>
-    <deal-status>первичная продажа</deal-status>
-    <domclick-building-id>121794</domclick-building-id>
+    <deal-status>прямая продажа</deal-status>
     <renovation>без отделки</renovation>
     <description>Площадь по проекту 45.47 м², по факту 49.53 м². Блок 4Ж, секция 16, этаж 3, квартира 11.</description>
   </offer>
@@ -205,13 +180,12 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <new-flat>да</new-flat>
-    <creation-date>2026-09-23T12:19:39+03:00</creation-date>
+    <creation-date>2026-09-23T14:47:53+03:00</creation-date>
     <location>
       <country>Россия</country>
       <region>Республика Дагестан</region>
       <locality-name>Дербент</locality-name>
-      <address>Республика Дагестан, г. Дербент, улица Аваин-булаг</address>
+      <address>Россия, Республика Дагестан, Дербент, Физули, 55</address>
       <apartment>19</apartment>
     </location>
     <sales-agent>
@@ -233,11 +207,7 @@
     <floors-total>4</floors-total>
     <building-name>ЖК Аваин</building-name>
     <building-section>17</building-section>
-    <building-state>unfinished</building-state>
-    <ready-quarter>2</ready-quarter>
-    <built-year>2027</built-year>
-    <deal-status>первичная продажа</deal-status>
-    <domclick-building-id>121794</domclick-building-id>
+    <deal-status>прямая продажа</deal-status>
     <renovation>без отделки</renovation>
     <description>Вид из окон: двор. Площадь по проекту 39.95 м², по факту 42.78 м². Блок 3Ж, секция 17, этаж 4, квартира 19.</description>
   </offer>
@@ -245,13 +215,12 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <new-flat>да</new-flat>
-    <creation-date>2026-09-23T12:19:39+03:00</creation-date>
+    <creation-date>2026-09-23T14:47:53+03:00</creation-date>
     <location>
       <country>Россия</country>
       <region>Республика Дагестан</region>
       <locality-name>Дербент</locality-name>
-      <address>Республика Дагестан, г. Дербент, улица Аваин-булаг</address>
+      <address>Россия, Республика Дагестан, Дербент, Физули, 55</address>
       <apartment>5</apartment>
     </location>
     <sales-agent>
@@ -273,11 +242,7 @@
     <floors-total>4</floors-total>
     <building-name>ЖК Аваин</building-name>
     <building-section>18</building-section>
-    <building-state>unfinished</building-state>
-    <ready-quarter>2</ready-quarter>
-    <built-year>2027</built-year>
-    <deal-status>первичная продажа</deal-status>
-    <domclick-building-id>121794</domclick-building-id>
+    <deal-status>прямая продажа</deal-status>
     <renovation>без отделки</renovation>
     <description>Европланировка (2 комн.). Вид из окон: двор. Площадь по проекту 56.58 м², по факту 61.1 м². Блок 2К2, секция 18, этаж 3, квартира 5.</description>
   </offer>
@@ -285,13 +250,12 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <new-flat>да</new-flat>
-    <creation-date>2026-09-23T12:19:39+03:00</creation-date>
+    <creation-date>2026-09-23T14:47:53+03:00</creation-date>
     <location>
       <country>Россия</country>
       <region>Республика Дагестан</region>
       <locality-name>Дербент</locality-name>
-      <address>Республика Дагестан, г. Дербент, улица Аваин-булаг</address>
+      <address>Россия, Республика Дагестан, Дербент, Физули, 55</address>
       <apartment>5</apartment>
     </location>
     <sales-agent>
@@ -313,11 +277,7 @@
     <floors-total>4</floors-total>
     <building-name>ЖК Аваин</building-name>
     <building-section>19</building-section>
-    <building-state>unfinished</building-state>
-    <ready-quarter>2</ready-quarter>
-    <built-year>2027</built-year>
-    <deal-status>первичная продажа</deal-status>
-    <domclick-building-id>121794</domclick-building-id>
+    <deal-status>прямая продажа</deal-status>
     <renovation>без отделки</renovation>
     <description>Вид из окон: двор. Площадь по проекту 50.01 м², по факту 53.94 м². Блок 1К, секция 19, этаж 2, квартира 5.</description>
   </offer>
@@ -325,13 +285,12 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <new-flat>да</new-flat>
-    <creation-date>2026-09-23T12:19:39+03:00</creation-date>
+    <creation-date>2026-09-23T14:47:53+03:00</creation-date>
     <location>
       <country>Россия</country>
       <region>Республика Дагестан</region>
       <locality-name>Дербент</locality-name>
-      <address>Республика Дагестан, г. Дербент, улица Аваин-булаг</address>
+      <address>Россия, Республика Дагестан, Дербент, Физули, 55</address>
       <apartment>3</apartment>
     </location>
     <sales-agent>
@@ -353,11 +312,7 @@
     <floors-total>4</floors-total>
     <building-name>ЖК Аваин</building-name>
     <building-section>20</building-section>
-    <building-state>unfinished</building-state>
-    <ready-quarter>2</ready-quarter>
-    <built-year>2027</built-year>
-    <deal-status>первичная продажа</deal-status>
-    <domclick-building-id>121794</domclick-building-id>
+    <deal-status>прямая продажа</deal-status>
     <renovation>без отделки</renovation>
     <description>Вид из окон: школа. Площадь по проекту 37.97 м², по факту 41 м². Блок 2К2, секция 20, этаж 2, квартира 3.</description>
   </offer>
@@ -365,13 +320,12 @@
     <type>продажа</type>
     <property-type>жилая</property-type>
     <category>квартира</category>
-    <new-flat>да</new-flat>
-    <creation-date>2026-09-23T12:19:39+03:00</creation-date>
+    <creation-date>2026-09-23T14:47:53+03:00</creation-date>
     <location>
       <country>Россия</country>
       <region>Республика Дагестан</region>
       <locality-name>Дербент</locality-name>
-      <address>Республика Дагестан, г. Дербент, улица Аваин-булаг</address>
+      <address>Россия, Республика Дагестан, Дербент, Физули, 55</address>
       <apartment>6</apartment>
     </location>
     <sales-agent>
@@ -393,11 +347,7 @@
     <floors-total>4</floors-total>
     <building-name>ЖК Аваин</building-name>
     <building-section>20</building-section>
-    <building-state>unfinished</building-state>
-    <ready-quarter>2</ready-quarter>
-    <built-year>2027</built-year>
-    <deal-status>первичная продажа</deal-status>
-    <domclick-building-id>121794</domclick-building-id>
+    <deal-status>прямая продажа</deal-status>
     <renovation>без отделки</renovation>
     <description>Вид из окон: школа. Площадь по проекту 69.25 м², по факту 74.79 м². Блок 2К2, секция 20, этаж 3, квартира 6.</description>
   </offer>
